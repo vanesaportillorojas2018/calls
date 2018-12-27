@@ -10,5 +10,11 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "calllist":[
+    { "position": "1", "name": "6:23 PM Jun 27, 2018", "weight": "10:30am", "to": "789.633.3452", "symbol": "789.633.7811", "status": "0:34","cost": "0.25", "activeColor": "#FBCA49", "activeTo": "false", "activeFrom": "false", "inactiveColor": "black", "inbound": "true" },
+    { "position": "2", "name": "12:43 PM Jun 14, 2018", "weight": "10:52am", "to": "602.633.7811", "symbol": "789.633.3452", "status": "0:54", "cost": 0.43, "activeColor": "#FBCA49", "activeTo": "false", "activeFrom": "false", "inactiveColor": "black", "inbound": "false" },
+    { "position": "3", "name": "6:23 PM Jun 27, 2018", "weight": "10:30am", "to": "789.633.3451", "symbol": "789.633.7811", "status": "0:04", "cost": 0.03, "activeColor": "#FBCA49", "activeTo": "false", "activeFrom": "false", "inactiveColor": "black", "inbound": "true" },
+    { "position": "4", "name": "6:23 PM Jun 27, 2018","weight": "10:30am", "to": "789.633.7811", "symbol": "602.633.7897", "status": "0:28", "cost": 0.22, "activeColor": "#FBCA49", "activeTo": "false", "activeFrom": "false", "inactiveColor": "black", "inbound": "false" }
+    ]
 }
